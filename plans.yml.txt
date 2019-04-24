@@ -1,0 +1,31 @@
+Le temps de :
+	La fureur:
+		Passif: célérité
+		La fournaise:
+			3|2|1:
+				1|2|3 dégats au créatures en début de tour
+			min:
+				prévient 1
+		La champs de bataille
+			3|2|1: 
+				+3|+2|+1/-1 
+			min:
+				+0/+1
+	La force:
+		Passif: piétinnement
+		L'arène: 
+			3|2: 
+				Les créatures peuvent provoquer
+			1:
+				
+			
+	La gloire			jeton, manipulation
+	La paix				pacifisme, developpement
+	Du renouveau		destruction, developpement
+	La contemplation	pioche, duplication
+	La mort				destruction, réanimation
+	Du silence			silence, manipulation
+	La préparation		developpement, jeton
+	La génèse			pioche, developpement
+	Du chaos			
+	
