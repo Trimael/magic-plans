@@ -1,18 +1,38 @@
-Le temps de:
-  La fureur:
+Le temps de: 
+  La fureur: 
     Passif: célérité
-    La fournaise: 
+    La fournaise:
       3|2|1: 1|2|3 dégats au créatures en début de tour
       min: prévient 1
     La champs de bataille: 
-       3|2|1: +3|+2|+1/-1 
-       min: +0/+1
-    La force:
+      3|2|1: +3|+2|+1/-1
+      min: +0/+1
+    La force: 
       Passif: piétinnement
       L'arène: 
         3|2: Les créatures peuvent provoquer
-        1:
-
+        1: Une créature peut provoquer
+        
+  Du silence:
+    Passif: ne peut pas cibler ou nommer une carte
+    
+  La génèse:
+    Passif: pioche une carte de plus en début du tour
+    
+  La paix:
+    Passif: ne peut pas attaquer
+    
+  La mort:
+    Passif: contact mortel
+    
+  Du renouveau:
+    Passif: cosse de gestation limité à une utilisation par tour hormis tour supplémentaire
+    
+  La contemplation:
+    Passif: se regarder intensément !!
+    
+  Du chaos:
+    Passif: ciblage au hasard
 
 La gloire			jeton, manipulation
 La paix				pacifisme, developpement
